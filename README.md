@@ -1,4 +1,4 @@
-# Laravel x Kunber
+# Wordpress x Kunber
 
 This is just an example of Kunber implementation on Wordpress.
 
@@ -22,8 +22,8 @@ For a demo, please go to [http://knbr.wuaze.com](http://knbr.wuaze.com). (Thanks
 
 ## Resources
 
-[Kunber docs](https://about-kunber.zone.id/p/docs)
-[Gx1 Contact form](https://gx1.org/#contact)
+- [Kunber docs](https://about-kunber.zone.id/p/docs)
+- [Gx1 Contact form](https://gx1.org/#contact)
 
 ## Contributing
 
