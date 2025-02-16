@@ -18,7 +18,7 @@ Try to logout and see the new login page will be added Kunber Login button.
 
 ## Demo
 
-For a demo, please go to [http://knbr.wuaze.com](http://knbr.wuaze.com). (Thanks to [Infinityfree](https://infinityfree.com) for the free hosting).
+For a demo, please go to [http://knbr.wuaze.com/wp-login.php](http://knbr.wuaze.com/wp-login.php). (Thanks to [Infinityfree](https://infinityfree.com) for the free hosting).
 
 ## Resources
 
