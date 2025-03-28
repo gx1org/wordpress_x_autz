@@ -1,20 +1,22 @@
 # Wordpress x Kunber
 
-This is just an example of Kunber implementation on Wordpress.
+Before starting, make sure already have an App in Kunber. If not, you can [create one](https://kunber.zone.id) for free.
+
+After creating app, please note the App ID and App Secret. We will need these value.
 
 ## How to install
 
 Make sure you already have wordpress running on your local/server.
 
-Upload the `kunber-login.php` file to the plugin folder:
+1. Download the [kunber.zip](kunber.zip) file.
 
-```
-htdocs/wp-contents/plugins/kunber-login.php
-```
+2. Login to your wp-admin, and upload the `kunber.zip` plugin. (Plugins > Add new Plugin > Upload Plugin).
 
-Then, Login as admin and activate the "Kunber Login" plugin from the Installed plugin menu.
+3. Activate the "Kunber" plugin from the Installed Plugins menu. Then click Manage.
 
-Try to logout and see the new login page will be added Kunber Login button.
+4. Paste your App ID and App Secret then click Save Changes.
+
+Now, please try to logout and see the new login page will be added with Kunber Login button.
 
 ## Demo
 
@@ -22,8 +24,8 @@ For a demo, please go to [http://knbr.wuaze.com/wp-login.php](http://knbr.wuaze.
 
 ## Resources
 
-- [Kunber docs](https://about-kunber.zone.id/p/docs)
-- [Gx1 Contact form](https://gx1.org/#contact)
+- [Kunber docs](https://kunber.gx1.org/p/docs)
+- [PT. Geksa Contact form](https://kunber.gx1.org/l/contact)
 
 ## Contributing
 
