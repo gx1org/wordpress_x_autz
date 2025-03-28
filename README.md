@@ -1,6 +1,6 @@
 # Wordpress x Kunber
 
-Before starting, make sure already have an App in Kunber. If not, you can [create one](https://kunber.zone.id) for free.
+Before starting, make sure that you already have an App in Kunber. If not, you can [create one](https://kunber.zone.id) for free.
 
 After creating app, please note the App ID and App Secret. We will need these value.
 
