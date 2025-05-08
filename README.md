@@ -1,6 +1,6 @@
-# Wordpress x Kunber
+# Wordpress x Autz.org
 
-Before starting, make sure that you already have an App in Kunber. If not, you can [create one](https://kunber.zone.id) for free.
+Before starting, make sure that you already have an App in Autz.org. If not, you can [create one](https://autz.org) for free.
 
 After creating app, please note the App ID and App Secret. We will need these value.
 
@@ -8,15 +8,15 @@ After creating app, please note the App ID and App Secret. We will need these va
 
 Make sure you already have wordpress running on your local/server.
 
-1. Download the [kunber.zip](kunber.zip) file.
+1. Download the [autzorg.zip](autzorg.zip) file.
 
-2. Login to your wp-admin, and upload the `kunber.zip` plugin. (Plugins > Add new Plugin > Upload Plugin).
+2. Login to your wp-admin, and upload the `autzorg.zip` plugin. (Plugins > Add new Plugin > Upload Plugin).
 
-3. Activate the "Kunber" plugin from the Installed Plugins menu. Then click Manage.
+3. Activate the "Autz.org" plugin from the Installed Plugins menu. Then click Manage.
 
 4. Paste your App ID and App Secret then click Save Changes.
 
-Now, please try to logout and see the new login page will be added with Kunber Login button.
+Now, please try to logout and see the new login page will be added with Autz.org Login button.
 
 ## Demo
 
@@ -24,8 +24,7 @@ For a demo, please go to [http://knbr.wuaze.com/wp-login.php](http://knbr.wuaze.
 
 ## Resources
 
-- [Kunber docs](https://kunber.gx1.org/p/docs)
-- [PT. Geksa Contact form](https://kunber.gx1.org/l/contact)
+- [Autz.org docs](https://about.autz.org/p/docs)
 
 ## Contributing
 
