@@ -14,7 +14,7 @@ Make sure you already have wordpress running on your local/server.
 
 3. Activate the "Autz.org" plugin from the Installed Plugins menu. Then click Manage.
 
-4. Paste your App ID and App Secret then click Save Changes.
+4. Put your App ID then click Save Changes. (You can [create an App](https://about.autz.org/p/docs) first, if you don't have it).
 
 Now, please try to logout and see the new login page will be added with Autz.org Login button.
 
